@@ -31,5 +31,9 @@
   [pythorch_resnet](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py)
 
 #### 2.论文阅读
+https://arxiv.org/pdf/1512.03385.pdf
+
+
 
 #### 3.resnet实战
+数据集：[imageNet](https://image-net.org/)
